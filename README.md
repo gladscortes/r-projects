@@ -21,14 +21,6 @@ yearly <- read_csv('datasets/yearly_deaths_by_clinic.csv')
 yearly
 ```
 
-    Parsed with column specification:
-    cols(
-      year = [32mcol_double()[39m,
-      births = [32mcol_double()[39m,
-      deaths = [32mcol_double()[39m,
-      clinic = [31mcol_character()[39m
-    )
-
 
 
 <table>
@@ -131,13 +123,6 @@ monthly <- monthly %>%
 # Print out the first rows in monthly
 head(monthly)
 ```
-
-    Parsed with column specification:
-    cols(
-      date = [34mcol_date(format = "")[39m,
-      births = [32mcol_double()[39m,
-      deaths = [32mcol_double()[39m
-    )
 
 
 
