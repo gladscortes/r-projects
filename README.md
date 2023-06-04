@@ -1,3 +1,4 @@
+<html style="background-color:white;color:black;">
 ## 1. Meet Dr. Ignaz Semmelweis
 <!--<p><img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_49/img/ignaz_semmelweis_1860.jpeg"></p>
 <!--
@@ -258,3 +259,4 @@ test_result
 # The data Semmelweis collected points to that:
 doctors_should_wash_their_hands <- TRUE
 ```
+</html>
